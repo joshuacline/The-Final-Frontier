@@ -24,7 +24,9 @@
 [![Youtube](https://img.youtube.com/vi/6XDeXfGHXfw/hqdefault.jpg)](https://youtu.be/6XDeXfGHXfw)
 
 # Sounding the alarm so everyone can breathe 🚨
-- ![Alt text](/antitrust.jpg "")
+
+<a href="https://youtu.be/RqUSjeoO91c" target="_blank"><img src="antitrust.jpg" alt=" " width="720"/></a>
+
 - See something, Say nothing.
 - ![Alt text](/glassceiling.jpg "")
 
