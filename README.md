@@ -1,36 +1,35 @@
 # The-Final-Frontier
 ***I want to scare you...because there are much worse things that can happen to you than being afraid.***
-- ![Alt text](/parasites.jpg "")
+
+<img src="parasites.jpg" alt=" " width="720">
+
 - Once upon a time, the internet was fresh and new. Everyone participated. The helpers, the doers, kind people, and of course the other side of that coin. There was a natural balance that propelled a sense of community, progress, and humanity. This is no more, and it hasn't been for a long time.
 
 # Communities will only hurt you
-- ![Alt text](/unfortunatesouls.jpg "")
+
+<img src="unfortunatesouls.jpg" alt=" " width="720">
 
 - Forever in loathing. Looking beneath the facade is an environment in strife, where confidence is no longer a commodity. In its place is a psyop of constant devaluation between anyone who remains. Wisdom teaches us that the pimped and desperate are not the kind of folks you want in your corner, unless of course you're one of them.
 
-- ![Alt text](/onlytakesone.jpg "")
+<img src="onlytakesone.jpg" alt=" " width="720">
+
 - What are SimpCities? I'll give you a hint: It's all that stands beside the pile of rubble, and once seen cannot be unseen. The depressing reality is that it only takes one to divide, control, and conquer an entire community. Thankfully there are some of us who stopped counting upon reaching a beautiful and round one hundred 💯 while in our twenties. There's no longer any power or control over an individual once they've been around the block, not unlike Dale Earnhardt.
 
 # Noble gatekeepers or viciously incompetent megalomaniacs?
-- ![Alt text](/kickingtheladder.jpg "")
+
+<img src="kickingtheladder.jpg" alt=" " width="720">
+
 - Imagine sharing your app with communities, only to be swiftly dog-piled and then disappeared, while the fat cats eat your breakfast, lunch, and dinner. Literally.
 
 - ***The company you keep says a lot. Maybe it's for the best.***
-- ![Alt text](/straightupweirdos.jpg "")
+
+<img src="straightupweirdos.jpg" alt=" " width="720">
+
 - A beautiful day in the neighborhood? If you're legally blind.
 
-[![Youtube](https://img.youtube.com/vi/-eAdqq_3ccw/hqdefault.jpg)](https://youtu.be/-eAdqq_3ccw)
+<a href="https://youtu.be/-eAdqq_3ccw" target="_blank"><img src="https://img.youtube.com/vi/-eAdqq_3ccw/hqdefault.jpg" alt=" " width="720"/></a>
 
-[![Youtube](https://img.youtube.com/vi/6XDeXfGHXfw/hqdefault.jpg)](https://youtu.be/6XDeXfGHXfw)
-
-# Sounding the alarm so everyone can breathe 🚨
-
-<a href="https://youtu.be/RqUSjeoO91c" target="_blank"><img src="antitrust.jpg" alt=" " width="720"/></a>
-
-- See something, Say nothing.
-- ![Alt text](/glassceiling.jpg "")
-
-[![Youtube](https://img.youtube.com/vi/E_bFNJlacvo/hqdefault.jpg)](https://youtu.be/E_bFNJlacvo)
+<a href="https://youtu.be/6XDeXfGHXfw" target="_blank"><img src="https://img.youtube.com/vi/6XDeXfGHXfw/hqdefault.jpg" alt=" " width="720"/></a>
 
 # Wait a minute..Who's the real Microsoft? That's right
 
@@ -38,3 +37,13 @@
 
 <a href="https://" target="_blank"><img src="getunderit.jpg" alt=" " width="720"/></a>
 
+# Sounding the alarm so everyone can breathe 🚨
+
+<a href="https://youtu.be/RqUSjeoO91c" target="_blank"><img src="antitrust.jpg" alt=" " width="720"/></a>
+
+- See something, Say nothing.
+
+<a href="https://youtu.be/hucRhDSmiDM" target="_blank"><img src="glassceiling.jpg" alt=" " width="720"/></a>
+- He's an alright extraterrestrial and dedicated to his work..to the best of my knowledge.
+
+<a href="https://youtu.be/E_bFNJlacvo" target="_blank"><img src="https://img.youtube.com/vi/E_bFNJlacvo/hqdefault.jpg" alt=" " width="720"/></a>
