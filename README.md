@@ -32,4 +32,9 @@
 
 [![Youtube](https://img.youtube.com/vi/E_bFNJlacvo/hqdefault.jpg)](https://youtu.be/E_bFNJlacvo)
 
+# Wait a minute..Who's the real Microsoft? That's right
+
+<a href="https://youtu.be/eJO5HU_7_1w" target="_blank"><img src="coulditbe.jpg" alt=" " width="720"/></a>
+
+<a href="https://" target="_blank"><img src="getunderit.jpg" alt=" " width="720"/></a>
 
