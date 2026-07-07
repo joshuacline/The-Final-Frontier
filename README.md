@@ -17,9 +17,11 @@
 
 # Noble gatekeepers or viciously incompetent megalomaniacs?
 
-<img src="kickingtheladder.jpg" alt=" " width="720">
+<a href="https://youtu.be/3mbBbFH9fAg" target="_blank"><img src="kickingtheladder.jpg" alt=" " width="720"/></a>
 
 - Imagine sharing your app with communities, only to be swiftly dog-piled and then disappeared, while the fat cats eat your breakfast, lunch, and dinner. Literally.
+
+<img src="vulturecircle.jpg" alt=" " width="720">
 
 - ***The company you keep says a lot. Maybe it's for the best.***
 
