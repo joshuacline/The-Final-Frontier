@@ -53,3 +53,5 @@
 # What does parallel construction look like?
 
 <a href="https://" target="_blank"><img src="parallelconstruction.jpg" alt=" " width="720"/></a>
+
+- When a group is so heavily invested in ruining a person, it's nearly impossible to walk away empty handed..but you don't have to take my word for it.
