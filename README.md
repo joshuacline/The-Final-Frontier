@@ -34,7 +34,7 @@
 <a href="https://youtu.be/6XDeXfGHXfw" target="_blank"><img src="https://img.youtube.com/vi/6XDeXfGHXfw/hqdefault.jpg" alt=" " width="720"/></a>
 
 # Wait a minute..Who's the real Microsoft? That's right
-
+ 
 <a href="https://youtu.be/eJO5HU_7_1w" target="_blank"><img src="coulditbe.jpg" alt=" " width="720"/></a>
 
 <a href="https://" target="_blank"><img src="getunderit.jpg" alt=" " width="720"/></a>
@@ -49,3 +49,7 @@
 - He's an alright extraterrestrial and dedicated to his work..to the best of my knowledge.
 
 <a href="https://youtu.be/E_bFNJlacvo" target="_blank"><img src="https://img.youtube.com/vi/E_bFNJlacvo/hqdefault.jpg" alt=" " width="720"/></a>
+
+# What does parallel construction look like?
+
+<a href="https://" target="_blank"><img src="parallelconstruction.jpg" alt=" " width="720"/></a>
