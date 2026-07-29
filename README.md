@@ -25,13 +25,11 @@
 
 - ***The company you keep says a lot. Maybe it's for the best.***
 
-<img src="straightupweirdos.jpg" alt=" " width="720">
+<a href="https://youtu.be/6XDeXfGHXfw" target="_blank"><img src="skibidishark.jpg" alt="🤮" width="720"/></a>
 
 - A beautiful day in the neighborhood? If you're legally blind.
 
-<a href="https://youtu.be/-eAdqq_3ccw" target="_blank"><img src="https://img.youtube.com/vi/-eAdqq_3ccw/hqdefault.jpg" alt=" " width="720"/></a>
-
-<a href="https://youtu.be/6XDeXfGHXfw" target="_blank"><img src="https://img.youtube.com/vi/6XDeXfGHXfw/hqdefault.jpg" alt=" " width="720"/></a>
+<a href="https://youtu.be/-eAdqq_3ccw" target="_blank"><img src="straightupweirdos.jpg" alt=" " width="720"/></a>
 
 # Wait a minute..Who's the real Microsoft? That's right
  
@@ -45,10 +43,11 @@
 
 - See something, Say nothing.
 
-<a href="https://youtu.be/hucRhDSmiDM" target="_blank"><img src="glassceiling.jpg" alt=" " width="720"/></a>
+<a href="https://youtu.be/Re3MIrFE7ow" target="_blank"><img src="glassceiling.jpg" alt=" " width="720"/></a>
+
 - He's an alright extraterrestrial and dedicated to his work..to the best of my knowledge.
 
-<a href="https://youtu.be/E_bFNJlacvo" target="_blank"><img src="https://img.youtube.com/vi/E_bFNJlacvo/hqdefault.jpg" alt=" " width="720"/></a>
+<a href="https://youtu.be/E_bFNJlacvo" target="_blank"><img src="notmalicious.jpg" alt=" " width="720"/></a>
 
 # What does parallel construction look like?
 
