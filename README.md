@@ -49,7 +49,7 @@
 
 <a href="https://youtu.be/E_bFNJlacvo" target="_blank"><img src="notmalicious.jpg" alt=" " width="720"/></a>
 
-Ever wonder the who and the how behind your tool getting flagged? Sometimes the answer can be quite simple, like a malicious moron leveraging your scripting methods, ignorantly as if it was commonly used code.
+Ever wonder the who and the how behind your tool getting flagged? Sometimes the answer can be quite simple, like a malicious moron leveraging your scripting methods, ***ignorantly as if it was commonly used code.***
 
 # What does parallel construction look like?
 
